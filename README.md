@@ -1,6 +1,6 @@
 # ML-LS26-Final-Project
 
-# IITB Insti-Assist
+# IITB Insti-Assistant
 
 
 This project was developed as the final project for the WnCC Machine Learning Learner's Space 2026.
