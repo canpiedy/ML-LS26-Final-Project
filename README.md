@@ -41,7 +41,11 @@ The workflow is fairly simple:
 8. Display the generated answer along with the document sources.
 
 ---
+## Chunking Strategy
 
+After extracting text from each PDF, the documents are divided into chunks of approximately 500 words with an overlap of 100 words.
+
+The overlap helps preserve context when important information spans multiple chunks. Each chunk stores its source document and page number, making it possible to retrieve relevant information and display citations along with the generated answer.
 ## Libraries Used
 
 - PyPDF
