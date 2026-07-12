@@ -72,7 +72,19 @@ The workflow is fairly simple:
 - When can a student apply for IDDDP?
 
 ---
+## Data Sources Used
 
+The assistant uses official IIT Bombay academic documents as its knowledge base. The documents used in this project include:
+
+- UG Rule Book
+- Academic Calendar 2026–27
+- Course Information Booklet
+- Grading Rules
+- IDDDP Guidelines 2025
+- Minor Programme Guidelines
+- M.Sc. Rules (where applicable)
+
+The assistant generates answers only from the information available in these documents.
 ## Current limitations
 
 - The assistant only answers questions that are covered in the uploaded documents.
