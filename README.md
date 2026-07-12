@@ -68,6 +68,7 @@ The workflow is fairly simple:
 - What is the eligibility criteria for IDDDP?
 - What are the rules for the Minor Programme?
 - What is the grading policy?
+- Procedure for Registration?
 - When can a student apply for IDDDP?
 
 ---
