@@ -82,7 +82,6 @@ The assistant uses official IIT Bombay academic documents as its knowledge base.
 - Grading Rules
 - IDDDP Guidelines 2025
 - Minor Programme Guidelines
-- M.Sc. Rules (where applicable)
 
 The assistant generates answers only from the information available in these documents.
 ## Current limitations
